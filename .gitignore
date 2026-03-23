@@ -1,0 +1,4 @@
+.vscode/
+obj/
+test_main
+test_zero_copy
