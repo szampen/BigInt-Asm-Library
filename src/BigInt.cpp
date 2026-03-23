@@ -79,3 +79,4 @@ std::ostream& operator<<(std::ostream& str, const BigInt& x) {
     std::reverse(result.begin(), result.end());
     str << result;
     return str;
+}
